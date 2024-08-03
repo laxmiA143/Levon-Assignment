@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
-import "assets/css/MiniCalendar.css";
+import "../../css/MiniCalendar.css";
 import { Text, Icon } from "@chakra-ui/react";
 import { MdChevronLeft, MdChevronRight } from "react-icons/md";
 import Card from "components/card/Card.js";
